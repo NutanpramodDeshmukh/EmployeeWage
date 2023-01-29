@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\practice\WageforMonth\bin\Debug\WageforMonth.exe.config
+C:\Users\Uday\OneDrive\Desktop\practice\WageforMonth\bin\Debug\WageforMonth.exe
+C:\Users\Uday\OneDrive\Desktop\practice\WageforMonth\bin\Debug\WageforMonth.pdb
+C:\Users\Uday\OneDrive\Desktop\practice\WageforMonth\obj\Debug\WageforMonth.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\practice\WageforMonth\obj\Debug\WageforMonth.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\practice\WageforMonth\obj\Debug\WageforMonth.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\practice\WageforMonth\obj\Debug\WageforMonth.exe
+C:\Users\Uday\OneDrive\Desktop\practice\WageforMonth\obj\Debug\WageforMonth.pdb
