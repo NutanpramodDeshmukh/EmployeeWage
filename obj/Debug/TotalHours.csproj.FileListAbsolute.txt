@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\practice\TotalHours\bin\Debug\TotalHours.exe.config
+C:\Users\Uday\OneDrive\Desktop\practice\TotalHours\bin\Debug\TotalHours.exe
+C:\Users\Uday\OneDrive\Desktop\practice\TotalHours\bin\Debug\TotalHours.pdb
+C:\Users\Uday\OneDrive\Desktop\practice\TotalHours\obj\Debug\TotalHours.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\practice\TotalHours\obj\Debug\TotalHours.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\practice\TotalHours\obj\Debug\TotalHours.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\practice\TotalHours\obj\Debug\TotalHours.exe
+C:\Users\Uday\OneDrive\Desktop\practice\TotalHours\obj\Debug\TotalHours.pdb
